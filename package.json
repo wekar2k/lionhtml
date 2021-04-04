@@ -1,0 +1,43 @@
+{
+  "version": "1.0.0",
+  "main": "index.html",
+  "devDependencies": {
+    "browser-sync": "latest",
+    "del": "latest",
+    "gulp": "latest",
+    "gulp-autoprefixer": "latest",
+    "gulp-clean-css": "latest",
+    "gulp-file-include": "latest",
+    "gulp-fonter": "latest",
+    "gulp-group-css-media-queries": "latest",
+    "gulp-sass": "latest",
+    "gulp-uglify-es": "latest",
+    "gulp-webp-html": "latest",
+    "gulp-webpcss": "latest",
+    "imagemin-webp": "latest",
+    "transform-runtime": "0.0.0",
+    "webp-converter": "2.2.3",
+    "gulp-imagemin": "latest",
+    "gulp-newer": "latest",
+    "gulp-plumber": "latest",
+    "gulp-rename": "latest",
+    "gulp-ttf2woff": "latest",
+    "gulp-ttf2woff2": "latest",
+    "gulp-svg-sprite": "latest"
+  },
+  "name": "lionhtml",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wekar2k/lionhtml.git"
+  },
+  "author": "wekar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wekar2k/lionhtml/issues"
+  },
+  "homepage": "https://github.com/wekar2k/lionhtml#readme",
+  "description": ""
+}
